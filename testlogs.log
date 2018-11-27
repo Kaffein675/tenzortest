@@ -1,0 +1,43 @@
+
+tests.py[LINE:60]# INFO     [2018-11-27 10:54:07,292]  set wait time 3 sec
+tests.py[LINE:63]# INFO     [2018-11-27 10:54:11,722]  go to yandex.ru
+tests.py[LINE:68]# INFO     [2018-11-27 10:54:11,727]  it is yandex.ru
+tests.py[LINE:74]# INFO     [2018-11-27 10:54:15,469]  click on pictures
+tests.py[LINE:79]# INFO     [2018-11-27 10:54:15,474]  it is yandex/images
+tests.py[LINE:84]# INFO     [2018-11-27 10:54:16,518]  first img is found
+tests.py[LINE:89]# INFO     [2018-11-27 10:54:16,558]  image is open
+tests.py[LINE:94]# INFO     [2018-11-27 10:54:16,725]  get argument scr
+tests.py[LINE:99]# INFO     [2018-11-27 10:54:17,090]  get next img
+tests.py[LINE:104]# INFO     [2018-11-27 10:54:17,121]  get argument src
+tests.py[LINE:108]# INFO     [2018-11-27 10:54:17,121]  image arnt different
+tests.py[LINE:113]# INFO     [2018-11-27 10:54:17,462]  click on prev button
+tests.py[LINE:118]# INFO     [2018-11-27 10:54:17,483]  get attribute scr
+tests.py[LINE:124]# ERROR    [2018-11-27 10:54:17,483]  image arnt different
+tests.py[LINE:20]# INFO     [2018-11-27 10:54:27,700]  set wait time 3 sec
+tests.py[LINE:23]# INFO     [2018-11-27 10:55:01,231]  go to yandex.ru
+tests.py[LINE:28]# INFO     [2018-11-27 10:55:01,234]  it is yandex.ru
+tests.py[LINE:37]# INFO     [2018-11-27 10:55:01,312]  input text
+tests.py[LINE:42]# INFO     [2018-11-27 10:55:01,321]  suggest is find
+tests.py[LINE:47]# INFO     [2018-11-27 10:55:02,885]  click is success
+tests.py[LINE:52]# INFO     [2018-11-27 10:55:03,004]  link is here
+tests.py[LINE:60]# INFO     [2018-11-27 11:05:05,815]  set wait time 3 sec
+tests.py[LINE:63]# INFO     [2018-11-27 11:05:10,826]  go to yandex.ru
+tests.py[LINE:68]# INFO     [2018-11-27 11:05:10,833]  it is yandex.ru
+tests.py[LINE:74]# INFO     [2018-11-27 11:05:14,258]  click on pictures
+tests.py[LINE:79]# INFO     [2018-11-27 11:05:14,268]  it is yandex/images
+tests.py[LINE:84]# INFO     [2018-11-27 11:05:14,787]  first img is found
+tests.py[LINE:89]# INFO     [2018-11-27 11:05:15,097]  image is open
+tests.py[LINE:94]# INFO     [2018-11-27 11:05:15,421]  get argument scr
+tests.py[LINE:99]# INFO     [2018-11-27 11:05:15,925]  get next img
+tests.py[LINE:104]# INFO     [2018-11-27 11:05:15,969]  get argument src
+tests.py[LINE:108]# INFO     [2018-11-27 11:05:15,970]  image arnt different
+tests.py[LINE:113]# INFO     [2018-11-27 11:05:16,315]  click on prev button
+tests.py[LINE:118]# INFO     [2018-11-27 11:05:16,349]  get attribute scr
+tests.py[LINE:124]# ERROR    [2018-11-27 11:05:16,349]  image arnt different
+tests.py[LINE:20]# INFO     [2018-11-27 11:05:25,378]  set wait time 3 sec
+tests.py[LINE:23]# INFO     [2018-11-27 11:05:29,019]  go to yandex.ru
+tests.py[LINE:28]# INFO     [2018-11-27 11:05:29,025]  it is yandex.ru
+tests.py[LINE:37]# INFO     [2018-11-27 11:05:29,081]  input text
+tests.py[LINE:42]# INFO     [2018-11-27 11:05:29,089]  suggest is find
+tests.py[LINE:47]# INFO     [2018-11-27 11:05:30,816]  click is success
+tests.py[LINE:52]# INFO     [2018-11-27 11:05:30,937]  link is here

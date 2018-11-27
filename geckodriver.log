@@ -1,0 +1,1378 @@
+1543278349806	geckodriver	INFO	geckodriver 0.20.1
+1543278349819	geckodriver	INFO	Listening on 127.0.0.1:54862
+1543278352817	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.hBiwQWbsDmym"
+1543278356615	Marionette	INFO	Listening on port 54870
+1543278356940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543278356975	Marionette	DEBUG	[6442450945] Frame script loaded
+1543278356982	Marionette	DEBUG	[6442450945] Frame script registered
+1543278357004	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543278358502	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543278359588	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543278360938	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543278360987	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543278361803	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543278361806	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543278361894	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543278361895	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543278362428	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543278362986	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543278366055	Marionette	INFO	Stopped listening on port 54870
+[Child 2516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 6036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4C0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1543278367917	geckodriver	INFO	geckodriver 0.20.1
+1543278367924	geckodriver	INFO	Listening on 127.0.0.1:54938
+1543278370944	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.A8HdVqErG9UZ"
+1543278374584	Marionette	INFO	Listening on port 54946
+1543278375131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543278375178	Marionette	DEBUG	[6442450945] Frame script loaded
+1543278375185	Marionette	DEBUG	[6442450945] Frame script registered
+1543278375208	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543278376645	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543278377942	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543278379183	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543278379205	Marionette	INFO	Stopped listening on port 54946
+[Child 9628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543278583257	geckodriver	INFO	geckodriver 0.20.1
+1543278583265	geckodriver	INFO	Listening on 127.0.0.1:55001
+1543278586293	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.rCrZ7QfnFHQk"
+1543278589763	Marionette	INFO	Listening on port 55009
+1543278590017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543278590060	Marionette	DEBUG	[6442450945] Frame script loaded
+1543278590066	Marionette	DEBUG	[6442450945] Frame script registered
+1543278590110	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543278591681	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543278592901	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543278594100	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543278594148	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543278595008	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543278595012	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543278595110	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543278595111	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543278595623	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543278596148	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543278599282	Marionette	INFO	Stopped listening on port 55009
+[Parent 2320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543278600952	geckodriver	INFO	geckodriver 0.20.1
+1543278600961	geckodriver	INFO	Listening on 127.0.0.1:55079
+1543278603984	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.XZgxm3XChyoG"
+1543278607697	Marionette	INFO	Listening on port 55087
+1543278608216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543278608255	Marionette	DEBUG	[6442450945] Frame script loaded
+1543278608261	Marionette	DEBUG	[6442450945] Frame script registered
+1543278608284	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543278609425	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543278610465	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543278611782	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543278611930	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543278612079	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543278612083	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543278612159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543278612161	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543278613006	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543278652.61495.139750.81532&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=554534623154327865286119254919978
+1543278613220	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1543278613349	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+[Parent 9688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543278613546	Marionette	INFO	Stopped listening on port 55087
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543279805710	geckodriver	INFO	geckodriver 0.20.1
+1543279805718	geckodriver	INFO	Listening on 127.0.0.1:55270
+1543279808745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.M1LKPB3KnP5r"
+1543279812692	Marionette	INFO	Listening on port 55278
+1543279812870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543279812908	Marionette	DEBUG	[4294967297] Frame script loaded
+1543279812916	Marionette	DEBUG	[4294967297] Frame script registered
+1543279812951	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1543279814702	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1543279815695	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543279846663	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.yandex.ru/
+1543279846727	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.yandex.ru/
+1543279847447	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.yandex.ru/
+1543279847457	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.yandex.ru/
+1543279847602	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967302
+1543279847602	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1543279847602	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1543279847603	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1543279848106	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543279848613	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+[Parent 8024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279850749	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1543279851087	Marionette	INFO	Stopped listening on port 55278
+[Parent 8024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279852863	geckodriver	INFO	geckodriver 0.20.1
+1543279852872	geckodriver	INFO	Listening on 127.0.0.1:55400
+1543279855884	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.taNOZmwf9s5I"
+1543279859707	Marionette	INFO	Listening on port 55408
+1543279859990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543279860025	Marionette	DEBUG	[6442450945] Frame script loaded
+1543279860031	Marionette	DEBUG	[6442450945] Frame script registered
+1543279860053	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543279861613	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543279862802	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543279863679	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543279863790	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543279863921	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543279863922	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543279863984	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543279863985	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543279864747	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543279906.2169.122205.11935&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=268608093154327990698637874079346
+1543279864962	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1543279865074	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543279865281	Marionette	INFO	Stopped listening on port 55408
+[Parent 6232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543280059185	geckodriver	INFO	geckodriver 0.20.1
+1543280059193	geckodriver	INFO	Listening on 127.0.0.1:55485
+1543280062214	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.z3WpcaKosVU5"
+1543280065733	Marionette	INFO	Listening on port 55493
+1543280065829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280065871	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280065888	Marionette	DEBUG	[6442450945] Frame script registered
+1543280065911	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280067338	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280068676	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280099636	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280099707	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280100565	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280100577	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280100741	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280100741	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280100741	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1543280100742	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543280101228	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543280101793	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280103883	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280105039	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280105102	Marionette	INFO	Stopped listening on port 55493
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543280107016	geckodriver	INFO	geckodriver 0.20.1
+1543280107025	geckodriver	INFO	Listening on 127.0.0.1:55614
+1543280110025	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.QVTCEkx8jSsV"
+1543280113556	Marionette	INFO	Listening on port 55623
+1543280113637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280113682	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280113688	Marionette	DEBUG	[6442450945] Frame script registered
+1543280113737	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280115405	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280117174	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280118377	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280118583	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280118729	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280118732	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280118793	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280118794	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280119587	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543280160.25251.122248.18538&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=506934781154328016001185788279118
+1543280119820	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1543280119938	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280120122	Marionette	INFO	Stopped listening on port 55623
+[Child 5876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543280150217	geckodriver	INFO	geckodriver 0.20.1
+1543280150225	geckodriver	INFO	Listening on 127.0.0.1:55701
+1543280153234	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.LTihvqRmYA85"
+1543280157469	Marionette	INFO	Listening on port 55709
+1543280158520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280158587	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280158593	Marionette	DEBUG	[6442450945] Frame script registered
+1543280158614	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280159840	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280160902	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+[Parent 4104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543280162995	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280163047	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280163895	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280163896	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280163988	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280163989	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280164453	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543280164987	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+[Parent 4104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543280167325	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280168663	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280168695	Marionette	INFO	Stopped listening on port 55709
+[Child 1492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4104, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 2676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543280170677	geckodriver	INFO	geckodriver 0.20.1
+1543280170686	geckodriver	INFO	Listening on 127.0.0.1:55793
+1543280173705	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.Vk0o2ZOpitO6"
+1543280177345	Marionette	INFO	Listening on port 55801
+1543280177817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280177851	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280177857	Marionette	DEBUG	[6442450945] Frame script registered
+1543280177885	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280179224	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280180285	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280181287	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280181428	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280181568	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280181570	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280181638	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280181639	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280182259	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543280224.23373.140893.71691&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=156710624154328022401814232561061
+1543280182500	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1543280182614	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280182820	Marionette	INFO	Stopped listening on port 55801
+[Child 6432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543280270035	geckodriver	INFO	geckodriver 0.20.1
+1543280270044	geckodriver	INFO	Listening on 127.0.0.1:55874
+1543280273061	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.BKPyWTiouP8Q"
+1543280276821	Marionette	INFO	Listening on port 55882
+1543280277300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280277337	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280277344	Marionette	DEBUG	[6442450945] Frame script registered
+1543280277366	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280278615	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280279677	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+[Parent 9820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543280281616	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280281674	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280282473	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280282475	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280282568	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280282568	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280283759	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280286105	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543280287070	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280287728	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280287775	Marionette	INFO	Stopped listening on port 55882
+[Child 524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543280290009	geckodriver	INFO	geckodriver 0.20.1
+1543280290017	geckodriver	INFO	Listening on 127.0.0.1:55969
+1543280293023	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.BFFeKTTLYoai"
+1543280296589	Marionette	INFO	Listening on port 55977
+1543280296706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280296745	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280296751	Marionette	DEBUG	[6442450945] Frame script registered
+1543280296802	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280298069	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280299272	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280329770	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280329990	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280330185	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280330186	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280330686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280330686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280330686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1543280330687	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543280331098	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543280343.12819.122245.1047073&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=788209211154328034303299874959157
+1543280331445	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280331597	Marionette	INFO	Stopped listening on port 55977
+[Parent 3000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543280432982	geckodriver	INFO	geckodriver 0.20.1
+1543280432993	geckodriver	INFO	Listening on 127.0.0.1:56094
+1543280436017	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.tUFOFqpvlE8M"
+1543280439509	Marionette	INFO	Listening on port 56102
+1543280439651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280439687	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280439693	Marionette	DEBUG	[6442450945] Frame script registered
+1543280439714	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280441201	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280442183	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280473257	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280473322	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280473988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280473994	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280474138	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280474138	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280474138	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1543280474139	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543280474701	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543280475269	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280477155	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280478471	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280478525	Marionette	INFO	Stopped listening on port 56102
+[Child 6764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5476, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543280480489	geckodriver	INFO	geckodriver 0.20.1
+1543280480497	geckodriver	INFO	Listening on 127.0.0.1:56227
+1543280483519	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.OnAKCdfxtOsT"
+1543280487072	Marionette	INFO	Listening on port 56235
+1543280487211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280487246	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280487252	Marionette	DEBUG	[6442450945] Frame script registered
+1543280487274	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280488792	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280489871	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280490895	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280491058	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280491189	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280491192	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280491257	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280491257	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280491943	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543280534.14421.122030.59209&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=800934434154328053404910532670228
+1543280492193	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280492399	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543280492586	Marionette	INFO	Stopped listening on port 56235
+[Child 7004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543280756105	geckodriver	INFO	geckodriver 0.20.1
+1543280756113	geckodriver	INFO	Listening on 127.0.0.1:56340
+1543280759132	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.YN7yYYIbimyP"
+1543280763035	Marionette	INFO	Listening on port 56348
+1543280763262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280763304	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280763312	Marionette	DEBUG	[6442450945] Frame script registered
+1543280763337	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280765305	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280766458	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280796996	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280797062	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280797893	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280797907	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280798056	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280798057	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280798057	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1543280798059	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543280798664	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543280799279	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280801378	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280802451	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543280802639	Marionette	INFO	Stopped listening on port 56348
+[Child 6004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543280804667	geckodriver	INFO	geckodriver 0.20.1
+1543280804676	geckodriver	INFO	Listening on 127.0.0.1:56472
+1543280807699	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.dcWU9UITJrlK"
+1543280811205	Marionette	INFO	Listening on port 56480
+1543280811310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543280811352	Marionette	DEBUG	[6442450945] Frame script loaded
+1543280811359	Marionette	DEBUG	[6442450945] Frame script registered
+1543280811395	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543280812730	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543280813915	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280815117	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543280815262	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543280815384	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543280815387	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543280815454	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543280815455	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543280816068	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543280858.43901.122277.1041748&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=722015837154328085808152575642074
+1543280816314	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543280817110	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543280817267	Marionette	INFO	Stopped listening on port 56480
+[Parent 9176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543281539446	geckodriver	INFO	geckodriver 0.20.1
+1543281539455	geckodriver	INFO	Listening on 127.0.0.1:56573
+1543281542447	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.rKukrSVY1xpF"
+1543281546478	Marionette	INFO	Listening on port 56581
+1543281546605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543281546647	Marionette	DEBUG	[6442450945] Frame script loaded
+1543281546653	Marionette	DEBUG	[6442450945] Frame script registered
+1543281546673	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543281548822	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543281549978	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281550948	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543281550992	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543281551749	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543281551750	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543281551851	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543281551851	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543281552436	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543281553086	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281555938	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543281556911	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543281557149	Marionette	INFO	Stopped listening on port 56581
+[Child 8136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 3624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543281559471	geckodriver	INFO	geckodriver 0.20.1
+1543281559479	geckodriver	INFO	Listening on 127.0.0.1:56663
+1543281562514	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.5txO09npRddM"
+1543281566806	Marionette	INFO	Listening on port 56671
+1543281567719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543281567758	Marionette	DEBUG	[6442450945] Frame script loaded
+1543281567764	Marionette	DEBUG	[6442450945] Frame script registered
+1543281567785	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543281568847	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543281569998	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281571019	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543281571138	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543281571331	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543281571334	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543281571381	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543281571381	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543281572242	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543281615.44838.122075.41616&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=693762338154328161515711355487063
+1543281572451	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281572609	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543281572792	Marionette	INFO	Stopped listening on port 56671
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543281844266	geckodriver	INFO	geckodriver 0.20.1
+1543281844275	geckodriver	INFO	Listening on 127.0.0.1:56753
+1543281847285	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.3NPcYZSTkfZW"
+1543281850804	Marionette	INFO	Listening on port 56761
+1543281850888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543281850926	Marionette	DEBUG	[6442450945] Frame script loaded
+1543281850932	Marionette	DEBUG	[6442450945] Frame script registered
+1543281850990	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543281852927	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543281854101	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281855422	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543281855473	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543281856542	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543281856545	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543281856634	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543281856638	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543281857293	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543281857725	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281860511	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543281861492	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543281861714	Marionette	INFO	Stopped listening on port 56761
+[Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543281864953	geckodriver	INFO	geckodriver 0.20.1
+1543281864961	geckodriver	INFO	Listening on 127.0.0.1:56843
+1543281867983	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.ed582kdXZIrJ"
+1543281871488	Marionette	INFO	Listening on port 56851
+1543281871597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543281871637	Marionette	DEBUG	[6442450945] Frame script loaded
+1543281871642	Marionette	DEBUG	[6442450945] Frame script registered
+1543281871684	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543281873311	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543281874458	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281875201	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543281875319	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543281875546	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543281875548	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543281875614	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543281876285	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543281920.25086.140360.920895&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=504805173154328192018753156002413
+1543281876549	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1543281876652	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543281876861	Marionette	INFO	Stopped listening on port 56851
+[Parent 3476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543283173554	geckodriver	INFO	geckodriver 0.20.1
+1543283173562	geckodriver	INFO	Listening on 127.0.0.1:57224
+1543283176577	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.8ziMGt8MnIH3"
+1543283180322	Marionette	INFO	Listening on port 57232
+1543283180685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283180720	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283180744	Marionette	DEBUG	[6442450945] Frame script registered
+1543283180774	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283181941	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283183269	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283184107	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283184174	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283185273	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283185276	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283185354	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283186042	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283187935	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543283188970	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543283189756	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543283189933	Marionette	INFO	Stopped listening on port 57232
+[Parent 8188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8188, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543283192046	geckodriver	INFO	geckodriver 0.20.1
+1543283192055	geckodriver	INFO	Listening on 127.0.0.1:57316
+1543283195066	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.5Qf9nQGOUWd3"
+1543283198901	Marionette	INFO	Listening on port 57324
+1543283199166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283199207	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283199220	Marionette	DEBUG	[6442450945] Frame script registered
+1543283199246	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283200556	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283201701	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283232593	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283232750	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283232893	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283232902	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283233001	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543283233002	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283233002	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1543283233003	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543283233859	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543283249.05272.140439.79254&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=601527131154328324932327453752306
+1543283234040	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283234301	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543283234462	Marionette	INFO	Stopped listening on port 57324
+[Child 3584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543283424332	geckodriver	INFO	geckodriver 0.20.1
+1543283424341	geckodriver	INFO	Listening on 127.0.0.1:57484
+1543283427354	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.m6eEhPZEh7u8"
+1543283431119	Marionette	INFO	Listening on port 57492
+1543283431466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283431505	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283431591	Marionette	DEBUG	[6442450945] Frame script registered
+1543283431620	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283433047	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283434084	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283435619	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283435664	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283436762	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283436764	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283436881	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283437780	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283439370	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543283440475	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543283441216	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543283441328	Marionette	INFO	Stopped listening on port 57492
+[Parent 6712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543283443718	geckodriver	INFO	geckodriver 0.20.1
+1543283443726	geckodriver	INFO	Listening on 127.0.0.1:57568
+1543283446745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.Gn2mWU2lyZbA"
+1543283450258	Marionette	INFO	Listening on port 57576
+1543283450376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283450426	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283450434	Marionette	DEBUG	[6442450945] Frame script registered
+1543283450466	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283451880	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283453100	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283454024	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283454225	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283454386	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283454390	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283454456	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283455140	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543283500.7466.122033.52990&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=381004959154328350034542217261193
+1543283455346	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1543283455475	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283455676	Marionette	INFO	Stopped listening on port 57576
+[Parent 9560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543283544039	geckodriver	INFO	geckodriver 0.20.1
+1543283544047	geckodriver	INFO	Listening on 127.0.0.1:57653
+1543283547068	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.QSeHCpqkI1jO"
+1543283551260	Marionette	INFO	Listening on port 57661
+1543283552283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283552316	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283552322	Marionette	DEBUG	[6442450945] Frame script registered
+1543283552345	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283553833	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283554961	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+[Parent 8884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283555714	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283555765	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283556663	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283556664	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283556784	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283557668	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543283558126	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543283558149	Marionette	INFO	Stopped listening on port 57661
+[Child 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543283560428	geckodriver	INFO	geckodriver 0.20.1
+1543283560437	geckodriver	INFO	Listening on 127.0.0.1:57728
+1543283563432	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.a2BlzrU2Zmbh"
+1543283567290	Marionette	INFO	Listening on port 57737
+1543283567543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283567575	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283567583	Marionette	DEBUG	[6442450945] Frame script registered
+1543283567603	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283569264	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283570209	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+[Parent 2672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543283570802	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283570933	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283571073	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283571075	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283571152	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283571773	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543283618.27492.122013.154152&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=934046322154328361835709278504151
+1543283571940	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1543283572067	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283572247	Marionette	INFO	Stopped listening on port 57737
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543283852301	geckodriver	INFO	geckodriver 0.20.1
+1543283852308	geckodriver	INFO	Listening on 127.0.0.1:57818
+1543283855325	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.QxMSJVvwkQIA"
+1543283858990	Marionette	INFO	Listening on port 57826
+1543283859444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283859480	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283859486	Marionette	DEBUG	[6442450945] Frame script registered
+1543283859506	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283861067	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283862072	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: https://www.yandex.ru/, line 1: NS_ERROR_FAILURE: 
+1543283865645	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543283865658	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283866057	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283867729	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283867781	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283867851	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543283867852	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1543283867858	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283868629	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283871053	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543283871826	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543283872403	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543283872500	Marionette	INFO	Stopped listening on port 57826
+[Parent 8556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543283875406	geckodriver	INFO	geckodriver 0.20.1
+1543283875415	geckodriver	INFO	Listening on 127.0.0.1:57927
+1543283878437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.jBWbiERBTZMj"
+1543283882146	Marionette	INFO	Listening on port 57935
+1543283882551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543283882599	Marionette	DEBUG	[6442450945] Frame script loaded
+1543283882726	Marionette	DEBUG	[6442450945] Frame script registered
+1543283882751	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543283884230	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543283885458	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+[Parent 2624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283916395	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543283916540	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543283916697	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543283916712	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543283916815	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543283916815	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1543283917500	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543283933.53847.122255.1039516&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=529308329154328393339165357074454
+1543283917704	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543283917956	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543283918111	Marionette	INFO	Stopped listening on port 57935
+[Child 4540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543288322516	geckodriver	INFO	geckodriver 0.20.1
+1543288322524	geckodriver	INFO	Listening on 127.0.0.1:58359
+1543288325540	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.PfmxEHzJlpMW"
+1543288329365	Marionette	INFO	Listening on port 58367
+1543288329664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543288329696	Marionette	DEBUG	[6442450945] Frame script loaded
+1543288329703	Marionette	DEBUG	[6442450945] Frame script registered
+1543288329725	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543288331118	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543288332339	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: https://awaps.yandex.net/0/c1/tVK-Oiz0m0j0DyMciZzbM9ipRgO+RKiKLd8IBqUj+Y8vL6GhAjfx1mAlpWmds_tLv2NfLznjzwgUq0HIiRGrMkA8AED81ZT2XrEFAayyuBND4GmIx9OOx2z8aOn_tEZoCwq2DNAMfkxU0ujTZl6jlfS7yAR4ZB3tW3LYA2+p51JvgdTWI2S5fz8WN_taODrwkkaZLQcbKVEfy+ug41s-He-5rheeBZitmcJ7r-Q6gozrZpFASwsZUXn_t3isiDKkqbGif-sOq2sFXkld9mVewzjIzUO5ukQleSUQDZM16VKYnB5MBGWnz_tNprCqu0mF1YY9U4XlamcuZ2ve46QwNvASyWhnEbsiS1krLjWz8D-cCSs-9SX_tqFUnGVGW-LPzQa45I4tm5CfoJXR9OeEWa6Wf9tBFROLpXwKTqPFMgyhG+tlU_FWXCKWGEA_A_.htm/data/?&link1=https://awaps.yandex.net/1/c1/tx21lszVAoU5Fo8Pyi8d5u1jhcFcMpi8W41HR0F23hlezeaspJIRTZGyWByW6_teyw30V1XnGkZphgtogGs0oYRaaS4mPKSwnEjTjNNQvIr9WMJiobd0xPRdbOA_tutMZkVwxw0uoC4I5r-bAxic257iPDR7dXg7K-p-ogV3p0rqfklGFDzFfHIu0_tQaF7NvScSMRJwEN2-XxsOqYH46g2CauT4xsSA3M+gBn0z6RjeIEvOtjxrss3_twSpu3DR6ggPFOaQ0kaac7PLOwS+NNHe7ujP1taiR7AtYDA23gfllc2KVJfqB_tBYC7YrRQVxRhtFA-U-Tr62RByhTYmzzkREU+OSv6CDHR-q5ZzCxLBNzieBfR_Su4Mpj4RS8km63FpIgC5oHfZr_A_.htm&link2=&link3=&link4=&link5=&link6=&link7=&link8=&link9=&link10=, line 195: TypeError: document.getElementById(...) is null
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288363225	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543288363306	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543288364124	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543288364135	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543288364256	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543288364256	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543288364256	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1543288364257	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543288364995	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288366514	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543288367060	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543288368013	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543288368198	Marionette	INFO	Stopped listening on port 58367
+[Parent 6508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4C0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1543288369946	geckodriver	INFO	geckodriver 0.20.1
+1543288369954	geckodriver	INFO	Listening on 127.0.0.1:58490
+1543288372955	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.fHA3raxtBHWQ"
+1543288377023	Marionette	INFO	Listening on port 58498
+1543288377066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543288377105	Marionette	DEBUG	[6442450945] Frame script loaded
+1543288377117	Marionette	DEBUG	[6442450945] Frame script registered
+1543288377153	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543288378704	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543288379846	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288380952	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543288381173	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543288381322	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543288381325	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543288381391	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543288381392	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543288382103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543288433.26366.122341.10349&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=344158082154328843383811635102192
+1543288382270	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1543288382391	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288382590	Marionette	INFO	Stopped listening on port 58498
+[Parent 10180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10180, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1543288749758	geckodriver	INFO	geckodriver 0.20.1
+1543288749766	geckodriver	INFO	Listening on 127.0.0.1:58577
+1543288752762	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.FwJZEOdul22x"
+1543288756361	Marionette	INFO	Listening on port 58585
+1543288756415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543288756454	Marionette	DEBUG	[6442450945] Frame script loaded
+1543288756460	Marionette	DEBUG	[6442450945] Frame script registered
+1543288756488	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543288758427	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543288759427	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288760680	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543288760729	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543288761534	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543288761537	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543288761619	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543288761620	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543288762640	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288765020	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543288765518	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543288766539	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543288766641	Marionette	INFO	Stopped listening on port 58585
+[Child 9220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543288768528	geckodriver	INFO	geckodriver 0.20.1
+1543288768536	geckodriver	INFO	Listening on 127.0.0.1:58673
+1543288771555	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.Xznx6dUY1u1E"
+1543288776063	Marionette	INFO	Listening on port 58681
+1543288776771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543288776808	Marionette	DEBUG	[6442450945] Frame script loaded
+1543288776815	Marionette	DEBUG	[6442450945] Frame script registered
+1543288776839	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543288778421	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543288779694	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288780703	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543288780825	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543288780962	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543288780965	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543288781025	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543288781808	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543288833.38095.122242.2375&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=880907355154328883387808229461059
+1543288781979	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543288782175	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543288782348	Marionette	INFO	Stopped listening on port 58681
+[Parent 900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543289107113	geckodriver	INFO	geckodriver 0.20.1
+1543289107121	geckodriver	INFO	Listening on 127.0.0.1:58764
+1543289110130	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.07S7jBeE9fLx"
+1543289113700	Marionette	INFO	Listening on port 58772
+1543289113854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543289113900	Marionette	DEBUG	[6442450945] Frame script loaded
+1543289113911	Marionette	DEBUG	[6442450945] Frame script registered
+1543289113951	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543289115304	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543289116670	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543289117700	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543289117814	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543289118691	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543289118693	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543289118783	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543289118784	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543289119259	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+1543289119961	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543289122314	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543289123427	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543289123550	Marionette	INFO	Stopped listening on port 58772
+[Child 5428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543289125446	geckodriver	INFO	geckodriver 0.20.1
+1543289125454	geckodriver	INFO	Listening on 127.0.0.1:58857
+1543289128455	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.Nh64sBZnrXPs"
+1543289132013	Marionette	INFO	Listening on port 58867
+1543289132068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543289132108	Marionette	DEBUG	[6442450945] Frame script loaded
+1543289132115	Marionette	DEBUG	[6442450945] Frame script registered
+1543289132152	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543289133433	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543289134702	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543289165961	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543289166142	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543289166280	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543289166294	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543289166379	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543289166380	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543289166380	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1543289166381	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1543289167126	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543289188.89445.122235.1031286&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=635551908154328918891661387816088
+1543289167339	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543289167582	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543289167744	Marionette	INFO	Stopped listening on port 58867
+[Child 4076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543290711234	geckodriver	INFO	geckodriver 0.20.1
+1543290711242	geckodriver	INFO	Listening on 127.0.0.1:59080
+1543290714266	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.e9GctOxFv7eX"
+1543290718283	Marionette	INFO	Listening on port 59088
+1543290718534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543290718574	Marionette	DEBUG	[6442450945] Frame script loaded
+1543290718582	Marionette	DEBUG	[6442450945] Frame script registered
+1543290718647	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543290720483	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543290721502	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290722355	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543290722404	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543290723312	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543290723314	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543290723410	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543290724478	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290726049	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543290726574	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543290728168	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543290728735	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543290728804	Marionette	INFO	Stopped listening on port 59088
+[Child 6124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543290730989	geckodriver	INFO	geckodriver 0.20.1
+1543290730997	geckodriver	INFO	Listening on 127.0.0.1:59173
+1543290734010	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.WIK7We32HSJp"
+1543290737686	Marionette	INFO	Listening on port 59181
+1543290738118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543290738156	Marionette	DEBUG	[6442450945] Frame script loaded
+1543290738162	Marionette	DEBUG	[6442450945] Frame script registered
+1543290738185	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543290739565	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543290740820	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290741417	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543290741545	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543290741688	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543290741691	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543290741775	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543290742469	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543290796.92356.122038.56228&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=838158787154329079607415412947429
+1543290742677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290742788	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543290743018	Marionette	INFO	Stopped listening on port 59181
+[Parent 2300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543290840597	geckodriver	INFO	geckodriver 0.20.1
+1543290840605	geckodriver	INFO	Listening on 127.0.0.1:59254
+1543290843612	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.vysY5x4aYjxU"
+1543290847026	Marionette	INFO	Listening on port 59262
+1543290847235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543290847279	Marionette	DEBUG	[6442450945] Frame script loaded
+1543290847286	Marionette	DEBUG	[6442450945] Frame script registered
+1543290847306	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543290849143	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543290850352	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290851725	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543290851784	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543290852567	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543290852569	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543290852683	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543290852687	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543290853716	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290855470	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543290856530	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543290857104	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543290857477	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543290857537	Marionette	INFO	Stopped listening on port 59262
+[Child 9864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543290860791	geckodriver	INFO	geckodriver 0.20.1
+1543290860801	geckodriver	INFO	Listening on 127.0.0.1:59354
+1543290863793	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.Nm9VIipizFvA"
+1543290867303	Marionette	INFO	Listening on port 59362
+1543290867486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543290867519	Marionette	DEBUG	[6442450945] Frame script loaded
+1543290867543	Marionette	DEBUG	[6442450945] Frame script registered
+1543290867714	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543290869718	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543290870790	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290901235	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543290901397	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543290901550	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543290901561	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543290901652	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543290901652	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1543290901653	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1543290902494	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543290927.22007.122061.60263&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=401502102154329092709013878082487
+1543290902660	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543290902892	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543290903050	Marionette	INFO	Stopped listening on port 59362
+[Parent 8592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543291498631	geckodriver	INFO	geckodriver 0.20.1
+1543291498639	geckodriver	INFO	Listening on 127.0.0.1:59494
+1543291501646	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.YPBcNcm9dule"
+1543291505282	Marionette	INFO	Listening on port 59502
+1543291505758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543291505791	Marionette	DEBUG	[6442450945] Frame script loaded
+1543291505797	Marionette	DEBUG	[6442450945] Frame script registered
+1543291505830	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543291507898	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543291509070	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543291510832	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543291510921	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543291511660	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543291511661	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543291511746	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543291511747	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543291512494	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://yandex.ru/images/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543291514266	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://yandex.ru/images/
+1543291514799	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543291515935	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543291516127	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1543291516328	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1543291516412	Marionette	INFO	Stopped listening on port 59502
+[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8728, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543291518671	geckodriver	INFO	geckodriver 0.20.1
+1543291518680	geckodriver	INFO	Listening on 127.0.0.1:59599
+1543291521692	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\3EC2~1\\AppData\\Local\\Temp\\rust_mozprofile.THe0vnmeSm0K"
+1543291525170	Marionette	INFO	Listening on port 59607
+1543291525322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543291525363	Marionette	DEBUG	[6442450945] Frame script loaded
+1543291525369	Marionette	DEBUG	[6442450945] Frame script registered
+1543291525391	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543291526898	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543291528213	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543291529024	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/
+1543291529136	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yandex.ru/
+1543291529274	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yandex.ru/
+1543291529277	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yandex.ru/
+1543291529329	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1543291529329	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1543291530051	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yandex.ru/search/?lr=65&msid=1543291585.194.122253.11500&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80&suggest_reqid=141596294154329158515291331765769
+1543291530249	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/PeerConnection.js, line 1811: TypeError: this._dompc._pc is undefined
+1543291530824	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yandex.ru/search/?lr=65&text=%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80
+1543291530991	Marionette	INFO	Stopped listening on port 59607
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4C0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
